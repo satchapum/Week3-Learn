@@ -16,7 +16,7 @@
     }
 
     public static void PrintInformation(int Answer) {
-        Console.WriteLine("Summary is : {0}", Answer);
+        Console.WriteLine("Summary is : {0}", A);
     }
 
     static void Main(string[] args) {
