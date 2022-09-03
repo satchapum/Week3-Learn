@@ -1,0 +1,5 @@
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.csproj.AssemblyReference.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.AssemblyInfoInputs.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.AssemblyInfo.cs
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.csproj.CoreCompileInputs.cache
