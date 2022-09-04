@@ -3,3 +3,13 @@ C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบท�
 C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.AssemblyInfoInputs.cache
 C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.AssemblyInfo.cs
 C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.csproj.CoreCompileInputs.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\bin\Debug\net6.0\1Question.exe
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\bin\Debug\net6.0\1Question.deps.json
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\bin\Debug\net6.0\1Question.runtimeconfig.json
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\bin\Debug\net6.0\1Question.dll
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\bin\Debug\net6.0\1Question.pdb
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.dll
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\refint\1Question.dll
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.pdb
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\1Question.genruntimeconfig.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\vs code\แบบทบทวน\1Question\obj\Debug\net6.0\ref\1Question.dll
